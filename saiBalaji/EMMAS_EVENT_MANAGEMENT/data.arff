@@ -1,0 +1,54 @@
+@relation events
+
+@attribute eventType {Conference, Seminar, Workshop, Webinar}
+@attribute eventName string
+@attribute location string
+@attribute date string
+@attribute description string
+
+@data
+'Conference','Garcia, Donaldson and Holt Conference','Sarahburgh','2025-03-19','Need computer offer series structure kid plant anything.'
+'Conference','Perry, Preston and Green Conference','Port Morgan','2025-11-19','Seem lay begin information huge serious where score between wait.'
+'Conference','Brown and Sons Conference','New Jose','2025-07-08','Thank first give hotel their employee risk meeting buy water author.'
+'Conference','Shaw PLC Conference','Olsonberg','2025-01-12','Head career anyone arrive sometimes career lose matter face believe around raise real school final.'
+'Conference','Potter, Porter and Bell Conference','North Kevin','2025-05-15','There four bar consumer leader election article sort open represent artist.'
+'Conference','Frank-Koch Conference','Port Adriana','2025-10-10','Girl simple pretty street.'
+'Conference','Bates-Young Conference','Kimberlyborough','2025-09-17','Expert cultural no too allow eye buy fight official bill hair bag notice.'
+'Conference','Espinoza-Dyer Conference','Lake John','2025-04-27','Lead create lead himself through nothing building meeting southern.'
+'Conference','Martinez-Miller Conference','West Adamberg','2025-04-25','Read listen to space customer mention marriage.'
+'Conference','Rodriguez-Warren Conference','Lake Michaelside','2025-07-20','Word unit enough soldier beautiful.'
+'Conference','Hall, Salas and Madden Conference','Kellystad','2025-10-02','Home including police president word take low director responsibility.'
+'Conference','Osborne, Weiss and Crawford Conference','North Robert','2025-12-25','Because civil eat easy.'
+'Conference','Williams, Vaughn and Ortiz Conference','Kathrynton','2025-04-10','Strategy international nothing at manager.'
+'Conference','Curry PLC Conference','Mannmouth','2025-03-22','Other guess teach perhaps respond course sing great almost once traditional.'
+'Conference','Jones LLC Conference','Alexanderton','2025-11-30','Woman far feeling wonder firm condition hundred.'
+
+'Seminar','Mitchell, Allen and Moore Wedding','New Nicole','2025-03-23','Buy seem nor soon force food ball teach at.'
+'Seminar','Washington-Zimmerman Wedding','Lake Jessicatown','2025-11-14','Modern type time stock over often.'
+'Seminar','Webster, Holloway and Smith Wedding','Timothyberg','2025-02-26','School quite say white we myself.'
+'Seminar','James, Barron and Williams Wedding','Hannahshire','2025-02-14','White why blue likely yard end appear he town approach these piece.'
+'Seminar','Walker, Williams and Jones Wedding','Port David','2025-12-13','Drug somebody agreement have bank tough.'
+'Seminar','Krueger LLC Wedding','East Julie','2025-08-09','Sister film interview sing prevent test kind answer child quite party case road.'
+'Seminar','Hall-Gay Wedding','South Hannahhaven','2025-05-15','Amount smile join third season reach scientist.'
+'Seminar','Sanders PLC Wedding','South Kathrynmouth','2025-04-28','Who chance already by who interesting.'
+'Seminar','Wilson Group Wedding','Jennifermouth','2025-07-11','Picture despite other west campaign person side teach thought drop.'
+'Seminar','Garcia-Hernandez Wedding','Danielview','2025-09-08','New interview organization statement million force despite hand star.'
+'Seminar','Robinson-Evans Wedding','New Justinville','2025-10-11','Manager discover choice guess dinner writer however.'
+'Seminar','Fox-Flores Wedding','North Melissaberg','2025-11-24','Before still system partner.'
+'Seminar','Martin and Sons Wedding','Angelaport','2025-08-20','Since head moment fine add bring anything artist arm.'
+
+'Workshop','Cummings-Clark Workshop','Dennisport','2025-12-08','Across part management power daughter care environment forward mother probably.'
+'Workshop','Stein Inc Workshop','Emmabury','2025-10-26','Hospital bill see bring fall successful.'
+'Workshop','Ali PLC Workshop','Lake Jenniferhaven','2025-06-04','Its alone wonder second.'
+'Workshop','Lee Inc Workshop','Lambertchester','2025-07-17','Go help at best carry capital for life leg soldier might century.'
+'Workshop','Miles-Miles Workshop','West Glennville','2025-02-08','Benefit buy fly where voice teacher receive.'
+'Workshop','Meyer-Holmes Workshop','West Martinburgh','2025-08-31','Hundred age less customer parent face report college threat land.'
+'Workshop','Zamora, Russell and Williams Workshop','Lake Crystalburgh','2025-08-17','Yourself picture concern lead message fine probably decade executive perhaps miss professional.'
+'Workshop','Peterson Group Workshop','Andreaberg','2025-03-28','Big manager specific center smile environment trouble plan above any.'
+'Workshop','Anderson-King Workshop','Simmonsside','2025-12-15','Husband score answer hot international you plan.'
+'Workshop','James LLC Workshop','Jonathanburgh','2025-05-24','Marriage have discussion southern doctor.'
+
+'Webinar','Perez Annual Gala','New Sophia','2025-07-01','Exciting dance music and amazing food in the city center.'
+'Webinar','Smith Retirement Bash','Johnstonbury','2025-09-05','Celebrating a legacy with food, speeches, and music.'
+'Webinar','Annual Startup Mixer','Techville','2025-06-12','Bringing entrepreneurs and investors together under one roof.'
+'Webinar','Charity Costume Ball','Oldtown','2025-10-29','Fundraiser for children’s education with costumes and live music.'
